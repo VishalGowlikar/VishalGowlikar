@@ -1,6 +1,6 @@
 ![Banner](Banner.png)
 
-<h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Vaibhav Jaiswal</a> </h1>
+<h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Vishal Gowlikar</a> </h1>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-jaiswal-8612621b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 ---
 
 ### Languages 🛠 
-[![My Programming Languages](https://skillicons.dev/icons?i=kotlin,java,ts,python,cpp,html,css)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=java,ts,python,cpp,html,css)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
 [![My Development](https://skillicons.dev/icons?i=androidstudio,gradle,ktor,nextjs,react,redux,mui,express,nodejs,tailwind,adonis)](https://skillicons.dev)
