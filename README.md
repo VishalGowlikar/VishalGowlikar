@@ -1,4 +1,4 @@
-![Banner](Banner.png)
+
 
 <h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Vishal Gowlikar</a> </h1>
 
