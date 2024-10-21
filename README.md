@@ -44,18 +44,7 @@
 [![My Socials](https://skillicons.dev/icons?i=linkedin,twitter,instagram,discord,devto)](https://skillicons.dev)
 ---
 
-<br/>
-<h2 align="center"> Github Statistics 📈</h2>
- 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vaibhav2002&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav2002&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Vaibhav2002&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</a><br><br>
+
 
 <!--START_SECTION:waka-->
 
