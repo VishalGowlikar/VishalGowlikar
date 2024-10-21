@@ -3,8 +3,8 @@
 <h1 align="center">Hello There! I'm <a href='https://vaibhavjaiswal.vercel.app/#/'>Vishal Gowlikar</a> </h1>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/vaibhav-jaiswal-8612621b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
-<a href="https://github.com/Vaibhav2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vaibhav2002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-gowlikar-235b20204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vaibhav3011" height="30" width="40" /></a>
+<a href="https://github.com/VishalGowlikar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vaibhav2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vaibhav02/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Vaibhav02" height="30" width="40" /></a>
 <a href="https://leetcode.com/vaibhav_jaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav_jaiswal" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vaibhav2511" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vaibhav2511" height="30" width="40" /></a>
